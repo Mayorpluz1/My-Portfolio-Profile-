@@ -1,4 +1,4 @@
-<h1>Hi, I'm Mayowa! <br/><a href="https://github.com/Abraham"></a> <a href="linkedin.com/in/mayowa-omoyosoye-b68872140/">Data Analyst||Business Intelligence||Business Analyst Professional</a>
+<h1>Hi, I'm Mayowa! <br/><a href="https://github.com/Abraham"></a> <a href="linkedin.com/in/mayowa-omoyosoye-b68872140/">Data Engineer||Business Intelligence Engineer||Business Analyst Professional</a>
 
 <h2>👨‍💻 Data Analysis Projects:</h2>
 
